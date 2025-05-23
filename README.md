@@ -10,7 +10,8 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allo
 - Responsive design
 
 ## 📁 Project Structure
-![image](https://github.com/user-attachments/assets/94b47eef-64c9-4700-9927-f6d9aabbeeb3)
+![image](https://github.com/user-attachments/assets/c6bdf52e-f94c-4fa6-9f97-5137fb68105c)
+
 
 ## 🧠 Game Logic
 
