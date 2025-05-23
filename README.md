@@ -12,16 +12,16 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allo
 ## 📁 Project Structure
 ![image](https://github.com/user-attachments/assets/94b47eef-64c9-4700-9927-f6d9aabbeeb3)
 
-# 🧠 Game Logic
+## 🧠 Game Logic
 
--Players alternate turns (X and O).
--The game detects wins across rows, columns, and diagonals.
--If all cells fill without a winner, it’s a draw.
--Reset button clears the board and restarts the game.
+- Players alternate turns (X and O).
+- The game detects wins across rows, columns, and diagonals.
+- If all cells fill without a winner, it’s a draw.
+- Reset button clears the board and restarts the game.
 
-# 🛠️ Built With
--HTML
--CSS
--JavaScript
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
 -----
